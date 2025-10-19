@@ -12,7 +12,6 @@ import java.io.IOException;
 import java.nio.file.Path;
 import java.util.List;
 
-@Configuration
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController
 @RequestMapping("/produtos")
