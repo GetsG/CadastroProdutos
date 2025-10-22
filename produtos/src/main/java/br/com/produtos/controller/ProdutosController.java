@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.nio.file.Path;
 import java.util.List;
 
-@CrossOrigin(origins = "https://produtos-fawn.vercel.app/")
+@CrossOrigin(origins = "https://produtos-mu.vercel.app/")
 @RestController
 @RequestMapping("/produtos")
 public class ProdutosController {
